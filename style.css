@@ -1,0 +1,1071 @@
+main {
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+main .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main .base .time {
+    font-size: 15px;
+}
+
+main .base .container i {
+    font-size: 20px;
+}
+
+
+/* main .circle .ellipse1 {
+    width: 672px;
+    height: 672px;
+    margin-top: 65px;
+    margin-left: -165px;
+    border: 3px solid rgb(95, 46, 242);
+    border-radius: 50%;
+    opacity: 0.6000000238418579px;
+    position: relative;
+    top: -90%;
+}
+
+main .circle .ellipse2 {
+    width: 677px;
+    height: 677px;
+
+    border: 3px solid rgb(95, 46, 242);
+    border-radius: 100%;
+    opacity: 0.6000000238418579px;
+    position: absolute;
+    top: -20px;
+    margin-left: -14px;
+
+} */
+
+main .logo {
+    align-items: center;
+    text-align: center;
+    margin-top: 125px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main .logo .logoo {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    height: 59px;
+    width: 59px;
+    border-radius: 16px;
+    background-color: white;
+
+}
+
+.logoo .logo1 {
+    border: 9px solid #6360FF;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.logoo .logo2 {
+    height: 9px;
+    width: 9px;
+    background-color: #FF8181;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+
+main .logo h1 {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+
+main .logo p {
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+main .form {
+    display: grid;
+    margin-top: 25%;
+    background-color: #F1F1FA;
+    padding-top: 35px;
+    border-radius: 30px;
+
+}
+
+main .form .input1 {
+    background-color: white;
+    padding: 13px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px 0px #00000029;
+    display: flex;
+    gap: 7px;
+}
+
+main .form .input1 i {
+    font-size: 29px;
+    color: #6360FF;
+}
+
+main .form .input1 input {
+    outline: none;
+    border: none;
+    width: 100%;
+    font-size: 17px;
+    color: rgb(16, 15, 15);
+}
+
+main .form button {
+    color: white;
+    padding: 13px;
+    margin-left: 15px;
+    margin-right: 15px;
+    gap: 9px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+}
+
+.span {
+    text-align: center;
+    padding-bottom: 62px;
+    padding-top: 39px;
+
+}
+
+main .form .span a {
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(144, 140, 140);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* second-css */
+
+.app .browser {
+
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+.browser .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .browser .base i {
+    font-size: 20px;
+}
+
+.app .browser .poetri {
+    display: flex;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-right: 19px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app .browser .image {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+.app .browser .image img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.app .browser .image .back p,
+span {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .browser .image .back span {
+    font-size: 13px;
+}
+
+.app .browser .image .back p {
+    font-size: 17px;
+
+}
+
+.app .browser .poetri .container i {
+    color: white;
+    font-size: 22px;
+}
+
+.app .browser .recommendation {
+    background-color: #F1F1FA;
+    border-radius: 30px;
+    margin-top: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.app .browser .recommendation .device {
+    margin-top: -30px;
+}
+
+.app .browser .recommendation .device,
+.app .browser .recommendation .idr {
+    background-color: white;
+    padding: 11px;
+    border-radius: 9px;
+
+}
+
+.app .browser .recommendation .device .active {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+.app .browser .recommendation .device .active .card span,
+.app .browser .recommendation .idr .apple .text .card span {
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.app .browser .recommendation .device .active p,
+.idr .apple .text .card p {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .browser .recommendation .device .active .log {
+    height: 60px;
+    width: 60px;
+    background-color: #6360FF;
+    border-radius: 15px;
+}
+
+.app .browser .recommendation .device .active .log .light {
+    height: 22px;
+    width: 22px;
+    background-color: #a3a2c2a4;
+    margin-left: 17px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    position: absolute;
+    transform: rotate(45deg);
+}
+
+.app .browser .recommendation .device .current {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.app .browser .recommendation .device .current .pro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.app .browser .recommendation .device .current .pro i {
+    font-size: 24px;
+    background-color: #F1F1FA;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border-radius: 7px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.app .browser .recommendation .device .current .pro .sp span,
+.idr .apple .text .by span {
+    color: gray;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .browser .recommendation .device .current .pro .sp p {
+    padding: 4px;
+    margin: 0%;
+}
+
+.scroll {
+    padding-top: 13px;
+}
+
+.pro-bar {
+    width: 313px;
+    height: 15px;
+    border-radius: 25px;
+    background-color: #F1F1FA;
+}
+
+.pro-bar .rectangle {
+    width: 49px;
+    height: 15px;
+    background-color: #7DC579;
+    border-radius: 25px;
+    position: absolute;
+    margin-left: 2px;
+}
+
+.app .browser .recommendation .recom p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.app .browser .recommendation .idr {
+    margin-top: 13px;
+    padding-bottom: 0px;
+}
+
+.app .browser .recommendation .idr .apple {
+    display: flex;
+    align-items: center;
+}
+
+.app .browser .recommendation .idr .apple .text .card span {
+    margin: 0%;
+    padding: 0%;
+}
+
+.app .browser .recommendation .idr .apple .text .by {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+
+.red {
+    height: 79px;
+    width: 75px;
+    border-radius: 15px;
+    background-color: #FF8181;
+}
+
+.red .red1 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #fab4b4;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.app .browser .recommendation .nav {
+    padding: 15px;
+    margin-top: 50px;
+    background-color: white;
+    width: 103%;
+    border-radius: 30px;
+    margin-left: -20px;
+}
+
+.app .browser .recommendation .nav i {
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+/* third-css */
+
+.app .explore {
+
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+.explore .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .explore .base i {
+    font-size: 20px;
+}
+
+.app .explore .poetri {
+    display: flex;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-right: 19px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app .explore .image {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+
+.app .explore .back span {
+    margin: 0%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.app .explore .poetri .image a i {
+    color: white;
+    font-size: 19px;
+}
+
+.app .explore .poetri .container i {
+    color: white;
+    font-size: 24px;
+}
+
+.app .explore .place {
+    background-color: #F1F1FA;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.app .explore .place .input1 {
+    background-color: white;
+    padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px 0px #00000029;
+    display: flex;
+    gap: 7px;
+}
+
+.app .explore .place .input1 i {
+    font-size: 29px;
+
+}
+
+.app .explore .place .input1 input {
+    outline: none;
+    border: none;
+    width: 100%;
+    font-size: 14px;
+    color: rgb(16, 15, 15);
+}
+
+.app .explore .place .recom p {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.app .explore .place .multi {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .explore .place .multi p {
+    background-color: #6360FF;
+    padding: 9px;
+    margin: 7px;
+    align-items: center;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    display: block;
+}
+
+
+.app .explore .place .idr {
+    margin-top: 13px;
+    padding-bottom: 0px;
+    background-color: white;
+    padding: 11px;
+    border-radius: 9px;
+}
+
+.app .explore .place .idr .apple {
+    display: flex;
+    align-items: center;
+
+}
+
+.app .explore .place .idr .apple .text .card span {
+    margin: 0%;
+    padding: 0%;
+}
+
+.app .explore .place .idr .apple .text .by {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+
+.red {
+    height: 79px;
+    width: 75px;
+    border-radius: 15px;
+    background-color: #FF8181;
+}
+
+.red .red1 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #fab4b4;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.app .explore .place .nav {
+    padding: 15px;
+    margin-top: 50px;
+    background-color: white;
+    width: 103%;
+    border-radius: 30px;
+    margin-left: -20px;
+}
+
+.app .explore .place .nav i {
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+/* fourth css */
+
+
+.app .explore {
+
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+.explore .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .explore .base i {
+    font-size: 20px;
+}
+
+.app .explore .poetri {
+    display: flex;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-right: 19px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app .explore .image {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+
+.app .explore .back span {
+    margin: 0%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.app .explore .poetri .image a i {
+    color: white;
+    font-size: 19px;
+}
+
+.app .explore .poetri .container i {
+    color: white;
+    font-size: 24px;
+}
+
+.app .explore .place {
+    background-color: #F1F1FA;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.app .explore .place .recom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.app .explore .place .recom span {
+    font-size: 13px;
+    color: gray;
+    font-weight: bold;
+}
+
+
+.app .explore .place .idr {
+    margin-top: 13px;
+    padding-bottom: 0px;
+    background-color: white;
+    padding: 11px;
+    border-radius: 9px;
+}
+
+.app .explore .place .idr .apple {
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+
+.app .explore .place .idr .apple .text .card span {
+    margin: 0%;
+    padding: 0%;
+}
+
+.app .explore .place .idr .apple .text .by {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+
+.red {
+    height: 79px;
+    width: 75px;
+    border-radius: 15px;
+    background-color: #FF8181;
+}
+
+.red .red1 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #fab4b4;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.app .explore .place .idr .apple .card-image .log {
+    height: 79px;
+    width: 75px;
+    background-color: #6360FF;
+    border-radius: 15px;
+}
+
+.log .light {
+    height: 22px;
+    width: 22px;
+    background-color: #a3a2c2a4;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 16px;
+    position: absolute;
+    transform: rotate(45deg);
+}
+
+.app .explore .place .nav1 {
+    padding: 15px;
+    margin-top: 50px;
+    background-color: white;
+    width: 103%;
+    border-radius: 30px;
+    margin-left: -20px;
+}
+
+.app .explore .place .nav1 i {
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+/* five-css */
+
+
+.app .explore {
+
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+.explore .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .explore .base i {
+    font-size: 20px;
+}
+
+.app .explore .poetri {
+    display: flex;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-right: 19px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app .explore .image {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+
+.app .explore .back span {
+    margin: 0%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.app .explore .poetri .image a i {
+    color: white;
+    font-size: 19px;
+}
+
+.app .explore .poetri .container i {
+    color: white;
+    font-size: 24px;
+}
+
+.app .explore .place {
+    background-color: #F1F1FA;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.app .explore .place .recom-1 {
+    display: flex;
+    padding-top: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.app .explore .place .recom-1 span {
+    font-size: 13px;
+    color: gray;
+    font-weight: bold;
+
+}
+
+hr {
+    margin-top: 30px;
+    color: gray;
+}
+
+.app .explore .place .idr {
+    margin-top: 13px;
+    padding-bottom: 0px;
+    background-color: white;
+    padding: 11px;
+    border-radius: 9px;
+}
+
+.app .explore .place .idr .apple {
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+
+.app .explore .place .idr .apple .text .card span {
+    margin: 0%;
+    padding: 0%;
+}
+
+.app .explore .place .idr .apple .text .by {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+
+.red {
+    height: 79px;
+    width: 75px;
+    border-radius: 15px;
+    background-color: #FF8181;
+}
+
+.red .red1 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #fab4b4;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.app .explore .place .idr .apple .card-image .log {
+    height: 79px;
+    width: 75px;
+    background-color: #6360FF;
+    border-radius: 15px;
+}
+
+.log .light {
+    height: 22px;
+    width: 22px;
+    background-color: #a3a2c2a4;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 16px;
+    position: absolute;
+    transform: rotate(45deg);
+}
+
+.app .explore .place button {
+    color: white;
+    padding: 13px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    width: 100%;
+    margin-top: 25px;
+    background-color: #7DC579;
+}
+
+/* sixxxxx css */
+
+
+.app .explore {
+
+    width: 376px;
+    background-color: #6360FF;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 1px -1px 8px 2px #00000029;
+    margin-bottom: 20px;
+}
+
+.explore .base {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 26px;
+    padding-right: 14px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app .explore .base i {
+    font-size: 20px;
+}
+
+.app .explore .poetri {
+    display: flex;
+    padding-left: 23px;
+    padding-top: 20px;
+    padding-right: 19px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.app .explore .image {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+}
+
+
+.app .explore .back span {
+    margin: 0%;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.app .explore .poetri .image a i {
+    color: white;
+    font-size: 19px;
+}
+
+.app .explore .poetri .container i {
+    color: white;
+    font-size: 24px;
+}
+
+.app .explore .place {
+    background-color: #F1F1FA;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
+
+.app .explore .place .recom2 {
+    display: flex;
+    align-items: center;
+    padding-left: 17px;
+    padding-right: 17px;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.app .explore .place .recom2 span {
+    font-size: 13px;
+    color: gray;
+    font-weight: bold;
+}
+
+
+.app .explore .place .idr {
+    margin-top: 13px;
+    padding-bottom: 0px;
+    background-color: white;
+    padding: 11px;
+    border-radius: 9px;
+}
+
+.app .explore .place .idr .apple {
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+
+.app .explore .place .idr .apple .text .card span {
+    margin: 0%;
+    padding: 0%;
+}
+
+.app .explore .place .idr .apple .text .by {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: -20px;
+}
+
+.round1 .red {
+    height: 65px;
+    width: 65px;
+    border-radius: 15px;
+    background-color: #FF8181;
+}
+
+.round1 .red .red1 {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #fab4b4;
+    align-items: center;
+    text-align: center;
+    margin-left: 23px;
+    margin-top: 21px;
+}
+
+
+.app .explore .place .nav2 {
+    padding: 15px;
+    margin-top: 50%;
+    background-color: white;
+    width: 103%;
+    border-radius: 30px;
+    margin-left: -20px;
+
+}
+
+.app .explore .place .nav2 i {
+    font-size: 25px;
+    padding-left: 50px;
+
+}
